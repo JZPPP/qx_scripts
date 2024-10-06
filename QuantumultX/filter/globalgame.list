@@ -1,0 +1,7 @@
+#一些国际服游戏分流
+#碧蓝日服
+host-suffix, azurlane.jp, proxy
+#米家游戏
+host-suffix, hoyolab.com, proxy
+host-suffix, hoyoverse.com, proxy
+host-suffix, zenlesszonezero.com, proxy
