@@ -9,4 +9,6 @@ DOMAIN,news-edge.apple.com,Apple News
 DOMAIN,news-todayconfig-edge.apple.com,Apple News
 DOMAIN,news-sports-events.apple.com,Apple News
 DOMAIN,news-client-search.apple.com,Apple News
+DOMAIN,news-app-events.apple.com,Apple News
+DOMAIN,newsletter-edge.apple.com,Apple News
 HOST-SUFFIX,smoot.apple.com,Apple News
