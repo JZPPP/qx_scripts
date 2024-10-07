@@ -12,3 +12,5 @@ DOMAIN,news-client-search.apple.com,Apple News
 DOMAIN,news-app-events.apple.com,Apple News
 DOMAIN,newsletter-edge.apple.com,Apple News
 HOST-SUFFIX,smoot.apple.com,Apple News
+DOMAIN,news-assets.apple.com,Apple News
+DOMAIN,c.apple.news,Apple News
