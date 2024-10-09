@@ -2326,7 +2326,7 @@ https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig url reject
 # > TestFlight
 # hostname = testflight.apple.com
 # TF账户管理 App更新时提示"APP不可用"问题，解决部分TF兑换错了区域的问题，例如Loon兑换到了国区
-^https?:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
+#^https?:\/\/testflight\.apple\.com\/v\d\/(app|account|invite)s\/ url script-analyze-echo-response https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js
 
 # > TT语音
 # hostname = ga-album-cdnqn.52tt.com
